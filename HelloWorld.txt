@@ -1,14 +1,3 @@
 V1: My name is Rahul
-<<<<<<< HEAD
-<<<<<<< HEAD
 V2: Rahul is in class V
 V4: He is from India
-
-=======
-V3: Rahul's age is 10
-V4: He is from India
->>>>>>> aadb375 (Revert v2 commit)
-=======
-V3: Rahul's age is 10
-V4: He is from India
->>>>>>> aadb375336179e2fa3e0d7768c7d0a3e6116e00c
